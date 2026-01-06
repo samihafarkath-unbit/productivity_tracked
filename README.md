@@ -23,3 +23,5 @@ Stores daily productivity
 so as a EEE 1st year (1sem) student i created 
 
 it's a beginner friendly 
+
+- Samiha Farkath 
