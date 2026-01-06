@@ -17,6 +17,7 @@ int main() {
         printf("Enter your choice: ");
         scanf("%d", &choice);
 
+
         if (choice == 1) {
             if (sessions >= MAX) {
                 printf("Daily limit reached!\n");
